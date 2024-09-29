@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "tty.h": "c",
+        "vga.h": "c",
+        "string.h": "c",
+        "kernel.h": "c",
+        "heap.h": "c",
+        "physical_memory.h": "c",
+        "cstdint": "c"
+    }
+}
